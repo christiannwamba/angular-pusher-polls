@@ -1,6 +1,5 @@
 import { Injectable } from '@angular/core';
 declare const Pusher: any;
-declare const promisify: any;
 
 @Injectable()
 export class PusherService {
